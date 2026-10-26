@@ -164,12 +164,4 @@ posmbg_mobile/
   * `POST /api/cart/add` & `GET /api/cart`: Kelola keranjang belanja bahan.
   * `POST /api/booking-checkout`: Submit pesanan terikat jadwal pengantaran.
 
----
 
-## 📊 9. Kriteria Penerimaan (Acceptance Criteria)
-
-- [x] Tampilan 100% responsif dan pas di resolusi smartphone (360px – 430px).
-- [x] Terdapat animasi splash screen saat pertama kali dibuka.
-- [x] Pengguna dapat berpindah peran (Dapur MBG ↔ Supplier) dengan lancar.
-- [x] Semua fungsi utama kedua role (Katalog, Keranjang, Lacak Pengiriman, Status Supplier) dapat disimulasikan secara visual.
-- [x] Desain dan warna identik dengan identitas web SPPGIndonesia.
